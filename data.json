@@ -1,11 +1,11 @@
 {
   "name": "winuzacasino.nl",
   "site_name": "Winuza Casino: Bonus voor NL 375% tot €5000",
-  "html_head": "<meta name=\"google-site-verification\" content=\"c1KhRHy6POzYwCbUvGPY67x4u_kbjYfov8tASlJIC70\" />\n<link rel=\"canonical\" href=\"https://winuzacasino.nl/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Winuza Casino: Bonus voor NL 375% tot €5000\">\n<meta property=\"og:description\" content=\"Vijf stortingen — vijf bonusfasen! Ontdek hoe Winuza Casino 500 gratis spins, slots en live-entertainment combineert.\">\n<meta property=\"og:url\" content=\"https://winuzacasino.nl/\">\n<meta property=\"og:site_name\" content= \"Winuza Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Winuza Casino: Bonus voor NL 375% tot €5000\">\n<meta name=\"twitter:description\" content=\"Vijf stortingen — vijf bonusfasen! Ontdek hoe Winuza Casino 500 gratis spins, slots en live-entertainment combineert.\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"Lk7PJ6LUZ9yItscS9G-UMfHwHLwJqvtx-2kAvYjfQAg\" />\n<link rel=\"canonical\" href=\"https://winuzacasino.nl/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Winuza Casino: Bonus voor NL 375% tot €5000\">\n<meta property=\"og:description\" content=\"Vijf stortingen — vijf bonusfasen! Ontdek hoe Winuza Casino 500 gratis spins, slots en live-entertainment combineert.\">\n<meta property=\"og:url\" content=\"https://winuzacasino.nl/\">\n<meta property=\"og:site_name\" content= \"Winuza Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Winuza Casino: Bonus voor NL 375% tot €5000\">\n<meta name=\"twitter:description\" content=\"Vijf stortingen — vijf bonusfasen! Ontdek hoe Winuza Casino 500 gratis spins, slots en live-entertainment combineert.\">\n",
   "url": "winuzacasino.nl",
   "template": "tupchiy",
   "language_code": "nl-NL",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -290,8 +290,8 @@
       "question": "Waar kun je de geschiedenis van je stortingen bekijken en de status van je financiële transacties controleren?"
     }
   ],
-  "_generated_at": "2026-10-22T08:55:36.097Z",
+  "_generated_at": "2026-10-22T08:56:50.907Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-22T08:55:36.823Z",
-  "_deploy_trigger": "kewxf5"
+  "_last_deploy": "2026-10-22T08:56:51.482Z",
+  "_deploy_trigger": "bstnc9"
 }
