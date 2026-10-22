@@ -189,7 +189,23 @@
       "openInNewTab": false
     }
   ],
-  "footer_images": [],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/57a93b660ed5e455519e3ee7cf0051d9.webp",
+      "image_alt": "dmca protected"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
+      "image_alt": "gamcare"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/9a676efc19861467abdc78cea9216323.webp",
+      "image_alt": "gambling therapy"
+    }
+  ],
   "Slots": [
     {
       "link": "/play/",
@@ -274,8 +290,8 @@
       "question": "Waar kun je de geschiedenis van je stortingen bekijken en de status van je financiële transacties controleren?"
     }
   ],
-  "_generated_at": "2026-10-22T08:53:50.553Z",
+  "_generated_at": "2026-10-22T08:55:36.097Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-22T08:53:51.182Z",
-  "_deploy_trigger": "6vlqbr"
+  "_last_deploy": "2026-10-22T08:55:36.823Z",
+  "_deploy_trigger": "kewxf5"
 }
