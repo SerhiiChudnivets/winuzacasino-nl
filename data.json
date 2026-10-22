@@ -98,9 +98,9 @@
   "button_background": "#b06107",
   "button_text_color": "#eef1f6",
   "text_color": "#e9e9e9",
-  "color_highlight_text": "#995200",
+  "color_highlight_text": "#ebe8e5",
   "color_main_btn_text": "#ebebef",
-  "cta_background": "#700036",
+  "cta_background": "#995200",
   "logo": {
     "url": "/uploads/b5f8b67a7227a3147525f44bcfe6beaa.webp",
     "alt": "winuza casino logo"
@@ -290,8 +290,8 @@
       "question": "Waar kun je de geschiedenis van je stortingen bekijken en de status van je financiële transacties controleren?"
     }
   ],
-  "_generated_at": "2026-10-22T08:58:25.745Z",
+  "_generated_at": "2026-10-22T08:59:48.811Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-22T08:58:26.359Z",
-  "_deploy_trigger": "0ge2tj"
+  "_last_deploy": "2026-10-22T08:59:49.418Z",
+  "_deploy_trigger": "1pc2rd"
 }
